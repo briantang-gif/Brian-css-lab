@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+body {
+     font-family:"Google Sans Flex";
+     background-color:whitesmoke;
+    color: black;
+    margin: 50;
+    padding: 35px;
+}
+p {
+    line-height: 1.6;
+    font-size: medium;
+}
+#main-header {
+ background-color: green;
+ color: white;
+ text-align: center;
+ border-bottom: 1.6px inset #039dfc;
+}
+
+.info-box {
+    background-color: seashell; 
+    padding: 1px;
+    margin-bottom: 30px;
+    border-width: 15px;
+    border: solid;
+    border-radius: 25px;
+    text-align: center;
+}
+body {
+    background-color: #FF7514;
+}
